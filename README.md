@@ -1,94 +1,53 @@
-<h1 align="center">👋 Olá, eu sou Pedro Rodrigues</h1>
+<h1 align="center">👋 Olá, eu sou o Pedro Rodrigues!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Front-End+em+formação;Apaixonado+por+tecnologia+e+criação+de+interfaces;Sempre+aprendendo+algo+novo&center=true&width=500&height=30&color=0A66C2&vCenter=true&pause=1000"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Intermediário-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  💻 Desenvolvedor em formação <br>
+  🚀 Focado em JavaScript, Web e muito café ☕<br>
+  📚 Estudante de Programação e apaixonado por Tecnologia
 </p>
 
 ---
 
-## 🧠 Sobre mim
+### 📊 Minhas Skills:
 
-Sou um desenvolvedor em formação, apaixonado por **criar interfaces modernas**, funcionais e responsivas.  
-Tenho me dedicado principalmente ao **JavaScript**, buscando construir projetos práticos que resolvam problemas reais e que também sejam bonitos visualmente.
-
-Estou sempre aprendendo, praticando e evoluindo com dedicação.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- 📌 JavaScript (ES6+)
-- 🌐 HTML5
-- 🎨 CSS3
-- 🧠 Lógica de programação
-- 🔧 Git & GitHub
-- 🌱 Estudando React.js e APIs REST
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
-## 🚀 Projetos em Destaque
+### 📁 Projetos em destaque:
 
-| Projeto | Descrição |
-|--------|------------|
-| 🔸 [Projeto To-Do List](https://github.com/seu-usuario/todo-list-js) | Lista de tarefas com salvamento local e interface amigável |
-| 🔸 [Formulário com Validação](https://github.com/seu-usuario/form-validation) | Validação de campos usando JavaScript puro |
-| 🔸 [Portfólio Responsivo](https://github.com/seu-usuario/portfolio-responsivo) | Meu portfólio pessoal com layout adaptável |
+- 🔥 [**Restaurante**](https://github.com/pedrodasilvarodrigues/Restaurante) — Sistema completo com pedidos, login, banco de dados (Privado)
+- 💡 [**ProjetoArray2**](https://github.com/pedrodasilvarodrigues/ProjetoArray2) — Manipulação de arrays em JS
+- 📘 [**Atividades Práticas PW**](https://github.com/pedrodasilvarodrigues/Atividades-Pr-ticas_Tarde_PW) — Exercícios de lógica e prática com JavaScript
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📈 Stats do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodasilvarodrigues&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodasilvarodrigues&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 💬 Um pouco mais sobre mim
+### 🧮 Gráfico de Commits
 
-- 🇧🇷 Brasileiro
-- 🧠 Autodidata na área de TI
-- ✍️ Gosto de aprender com projetos reais
-- 📚 Em constante evolução
-- 🤝 Gosto de compartilhar o que aprendo
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrodasilvarodrigues&theme=tokyo-night&hide_border=true)](https://github.com/pedrodasilvarodrigues)
 
 ---
 
-## 📫 Como me encontrar
+### 📬 Contato:
 
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Pedro Rodrigues](https://linkedin.com/in/seu-link)
-- Email: pedro@email.com
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:pedrosilva1233123567@gmail.com)
 
 ---
 
-## ⭐ Apoie meu trabalho
+> ⚡ *“A prática leva à perfeição. Código após código, bug após bug.” — Pedro*
 
-Se você curtiu algum dos meus projetos:
-
-✅ Deixe uma estrela ⭐  
-✅ Me siga aqui no GitHub  
-✅ Compartilhe com colegas devs
-
----
-
-## 💡 Frase que me inspira
-
-> “O aprendizado é infinito. Todo especialista um dia foi um iniciante.”
-
----
-
-<p align="center">
-  Feito com dedicação, curiosidade e vontade de evoluir 🚀
-</p>
 
 
 
