@@ -1,122 +1,94 @@
-<h1 align="center">🖤 Bem-vindo ao meu universo no GitHub</h1>
+<h1 align="center">👋 Olá, eu sou Pedro Rodrigues</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Olá,+eu+sou+Pedro+Rodrigues;Desenvolvedor+Front-End+em+formação;Apaixonado+por+JavaScript+e+design+dark&center=true&width=500&height=30&color=9F79EE&vCenter=true&pause=1000"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Front-End+em+formação;Apaixonado+por+tecnologia+e+criação+de+interfaces;Sempre+aprendendo+algo+novo&center=true&width=500&height=30&color=0A66C2&vCenter=true&pause=1000"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tema-Dark%20Mode-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20café-e91e63?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20e%20evoluindo-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-Intermediário-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git%20&%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Olá! Me chamo **Pedro Rodrigues**, sou um entusiasta da tecnologia que encontrou no desenvolvimento web uma forma de transformar ideias em realidade.  
-Desde que escrevi minha primeira linha de código, percebi que programar é muito mais do que digitar comandos — é criar, resolver problemas e construir algo do zero.
+Sou um desenvolvedor em formação, apaixonado por **criar interfaces modernas**, funcionais e responsivas.  
+Tenho me dedicado principalmente ao **JavaScript**, buscando construir projetos práticos que resolvam problemas reais e que também sejam bonitos visualmente.
 
-Atualmente estudo intensamente **JavaScript**, com foco em **interfaces modernas**, **responsivas** e com **tema escuro** — porque sim, dark mode é vida 🌙.
-
-Sou apaixonado por:
-- Criar interfaces elegantes e funcionais
-- Aprender novas tecnologias
-- Resolver desafios com lógica e criatividade
-- Projetar experiências visuais que causem impacto
+Estou sempre aprendendo, praticando e evoluindo com dedicação.
 
 ---
 
-## 🔧 Tecnologias que domino ou estou aprendendo
+## 🛠️ Tecnologias e Ferramentas
 
-| Linguagem / Ferramenta | Descrição |
-|------------------------|-----------|
-| 🟨 **JavaScript (ES6+)** | Minha linguagem principal |
-| 🌐 **HTML5**            | Estrutura semântica das páginas |
-| 🎨 **CSS3 / Dark UI**   | Estilo moderno e minimalista |
-| ⚛️ React.js (aprendendo) | Para interfaces dinâmicas |
-| 🧰 Git & GitHub         | Versionamento e colaboração |
-| 🌎 APIs REST (em progresso) | Para conectar frontend e backend |
+- 📌 JavaScript (ES6+)
+- 🌐 HTML5
+- 🎨 CSS3
+- 🧠 Lógica de programação
+- 🔧 Git & GitHub
+- 🌱 Estudando React.js e APIs REST
 
 ---
 
-## 💼 O que estou construindo
-
-📌 Atualmente estou focado em projetos com:
-- Interfaces escuras com visual clean e interativo
-- Dashboards, portfólios e apps simples com JS puro
-- Componentes reutilizáveis para projetos front-end
-
----
-
-## 🚀 Alguns dos meus projetos
+## 🚀 Projetos em Destaque
 
 | Projeto | Descrição |
 |--------|------------|
-| 🔹 [Projeto DarkMode JS](https://github.com/seu-usuario/projeto-darkmode) | Interface escura moderna com JavaScript puro |
-| 🔹 [Lista de Tarefas](https://github.com/seu-usuario/todo-list-js) | Gerenciador de tarefas simples com localStorage |
-| 🔹 [Landing Page Pessoal](https://github.com/seu-usuario/landing-dark) | Site pessoal com visual escuro responsivo |
+| 🔸 [Projeto To-Do List](https://github.com/seu-usuario/todo-list-js) | Lista de tarefas com salvamento local e interface amigável |
+| 🔸 [Formulário com Validação](https://github.com/seu-usuario/form-validation) | Validação de campos usando JavaScript puro |
+| 🔸 [Portfólio Responsivo](https://github.com/seu-usuario/portfolio-responsivo) | Meu portfólio pessoal com layout adaptável |
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&hide_border=false&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=default" />
 </p>
 
 ---
 
-## 🧩 Curiosidades sobre mim
+## 💬 Um pouco mais sobre mim
 
-- 📍 Brasileiro
-- 👨‍💻 Autodidata na programação
-- 💬 Sempre disposto a ajudar quem está aprendendo
-- 🎯 Meu objetivo: viver de código e projetos próprios
-- 🧪 Buscando sempre melhorar, uma linha de código por vez
+- 🇧🇷 Brasileiro
+- 🧠 Autodidata na área de TI
+- ✍️ Gosto de aprender com projetos reais
+- 📚 Em constante evolução
+- 🤝 Gosto de compartilhar o que aprendo
 
 ---
 
 ## 📫 Como me encontrar
 
-Entre em contato comigo:
-
 - GitHub: [@seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seunome)  
-- Email: seunome@email.com
+- LinkedIn: [Pedro Rodrigues](https://linkedin.com/in/seu-link)
+- Email: pedro@email.com
 
 ---
 
-## ⭐ Me ajude a crescer
+## ⭐ Apoie meu trabalho
 
-Se você curtiu meu trabalho:
+Se você curtiu algum dos meus projetos:
 
-✅ Deixe uma estrela nos repositórios  
+✅ Deixe uma estrela ⭐  
 ✅ Me siga aqui no GitHub  
-✅ Compartilhe com outros devs
+✅ Compartilhe com colegas devs
 
 ---
 
-## ✨ Frase que me inspira
+## 💡 Frase que me inspira
 
-> "Você não precisa ser ótimo para começar, mas precisa começar para ser ótimo." — Zig Ziglar
-
----
-
-## 🏙️ Skyline dos meus Commits
-
-<p align="center">
-  <img src="https://skyline.github.com/seu-usuario/2024.svg" alt="Skyline dos commits" style="max-width: 100%; height: auto;">
-</p>
-
-> *Este gráfico representa meu ano de contribuições como um skyline 3D. Visualize o original em:* [skyline.github.com/seu-usuario](https://skyline.github.com/seu-usuario)
+> “O aprendizado é infinito. Todo especialista um dia foi um iniciante.”
 
 ---
 
 <p align="center">
-  Feito com 🖤, café ☕ e <code>console.log("muita dedicação!")</code>
+  Feito com dedicação, curiosidade e vontade de evoluir 🚀
 </p>
+
 
 
