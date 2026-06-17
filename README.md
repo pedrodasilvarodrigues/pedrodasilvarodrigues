@@ -1,53 +1,148 @@
-<h1 align="center">👋 Olá, eu sou o Pedro Rodrigues!</h1>
+<h1 align="center">
+🚀 Pedro Rodrigues
+</h1>
+
+<h3 align="center">
+Desenvolvedor Full Stack em Formação • React • Next.js • Supabase
+</h3>
 
 <p align="center">
-  💻 Desenvolvedor em formação <br>
-  🚀 Focado em JavaScript, Web e muito café ☕<br>
-  📚 Estudante de Programação e apaixonado por Tecnologia
+Construindo aplicações modernas, escaláveis e focadas na experiência do usuário.
+</p>
+
+<p align="center">
+<a href="mailto:pedrosilva1233123567@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Foco-Full%20Stack-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-### 📊 Minhas Skills:
+# 👨‍💻 Sobre Mim
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+🎓 Estudante de Desenvolvimento de Sistemas
 
----
+💡 Apaixonado por tecnologia, inovação e criação de soluções digitais
 
-### 📁 Projetos em destaque:
+🚀 Atualmente desenvolvendo plataformas completas utilizando React, Next.js e Supabase
 
-- 🔥 [**Restaurante**](https://github.com/pedrodasilvarodrigues/Restaurante) — Sistema completo com pedidos, login, banco de dados (Privado)
-- 💡 [**ProjetoArray2**](https://github.com/pedrodasilvarodrigues/ProjetoArray2) — Manipulação de arrays em JS
-- 📘 [**Atividades Práticas PW**](https://github.com/pedrodasilvarodrigues/Atividades-Pr-ticas_Tarde_PW) — Exercícios de lógica e prática com JavaScript
+📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+
+🎯 Objetivo: atuar profissionalmente como Desenvolvedor Full Stack
 
 ---
 
-### 📈 Stats do GitHub
+# 🛠️ Tecnologias e Ferramentas
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss)
+
+### Backend & Banco de Dados
+
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+# 🚀 Projetos em Destaque
+
+### 🍽️ Sistema de Gestão para Restaurante
+
+Sistema completo com:
+
+✅ Pedidos online
+
+✅ Controle de mesas
+
+✅ Painel de cozinha em tempo real
+
+✅ Banco de dados PostgreSQL
+
+✅ Supabase Realtime
+
+---
+
+### 🎓 ConectaEstudos
+
+Plataforma colaborativa para estudantes.
+
+Recursos:
+
+📚 Compartilhamento de materiais
+
+💬 Comunidades
+
+👥 Perfis de estudantes
+
+🔔 Notificações
+
+📅 Planner de estudos
+
+---
+
+### 💼 Portal de Triagem Profissional
+
+Sistema de recrutamento e seleção com:
+
+🏢 Cadastro de empresas
+
+👨‍💼 Cadastro de profissionais
+
+📄 Currículos
+
+📅 Entrevistas
+
+📨 Comunicação entre candidatos e empresas
+
+---
+
+# 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodasilvarodrigues&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodasilvarodrigues&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrodasilvarodrigues&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodasilvarodrigues&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🧮 Gráfico de Commits
+# 🔥 Atividade
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrodasilvarodrigues&theme=tokyo-night&hide_border=true)](https://github.com/pedrodasilvarodrigues)
-
----
-
-### 📬 Contato:
-
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:pedrosilva1233123567@gmail.com)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pedrodasilvarodrigues&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-> ⚡ *“A prática leva à perfeição. Código após código, bug após bug.” — Pedro*
+# 🎯 Objetivos para 2026
 
+- Aprimorar conhecimentos em React e Next.js
+- Construir aplicações completas Full Stack
+- Expandir conhecimentos em banco de dados
+- Criar projetos de impacto para portfólio
+- Conquistar oportunidades profissionais na área de tecnologia
 
+---
 
+<p align="center">
 
+⭐ Obrigado por visitar meu perfil!
+
+💻 Sempre aprendendo, construindo e evoluindo.
+
+</p>
