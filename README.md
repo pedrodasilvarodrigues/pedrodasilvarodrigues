@@ -95,21 +95,6 @@ Recursos:
 
 ---
 
-### 💼 Portal de Triagem Profissional
-
-Sistema de recrutamento e seleção com:
-
-🏢 Cadastro de empresas
-
-👨‍💼 Cadastro de profissionais
-
-📄 Currículos
-
-📅 Entrevistas
-
-📨 Comunicação entre candidatos e empresas
-
----
 
 # 📊 Estatísticas
 
